@@ -62,10 +62,6 @@ I started by making the necessary changes to my html file first and then added t
 
 ![Alt text](<Screenshot 2023-11-29 at 14.11.53.png>)
 
-2. Fix the contact page to make it show the page when I click on it.
-
-![Alt text](<Screenshot 2023-11-29 at 12.19.35.png>)
-
 
 ### Deployment
 
