@@ -1,77 +1,75 @@
-# Personal Profile
+# Unit 2 Challenge: Portfolio
 
-My challenge for this week is to build a portfolio page, which I can add to as the course progresses.
+## Your Task
 
-## My Task
+This week, you'll build a portfolio page, which you can add to as the course progresses. 
 
-Build a portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies.
+A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies. 
 
-### User Story
+With these points in mind, in this challenge you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
 
-```
-AS A Frontend developer
-I WANT a codebase that follows accessibility standards
-SO THAT my site is optimized for search engines
-```
+**Note:** If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.
 
-### Acceptance Criteria
+## Acceptance Criteria
 
-- When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you
-- When one of the links in the navigation is clicked then the UI scrolls to the corresponding section
-- When viewing the section about your work then the section contains titled images of your applications
-- When presented with the your first application then that application's image should be larger in size than the others
-- When images of the applications are clicked then the user is taken to that deployed application
-- When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
+Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
 
-### Resources:
+* When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you
+* When one of the links in the navigation is clicked then the UI scrolls to the corresponding section
+* When viewing the section about your work then the section contains titled images of your applications
+* When presented with the your first application then that application's image should be larger in size than the others
+* When images of the applications are clicked then the user is taken to that deployed application
+* When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to my viewport
 
+## Mock-Up
 
+The following animation shows the web application's appearance and functionality:
 
-### Getting Started
+![portfolio demo](./images/01-css-challenge-demo.gif)
 
-I followed the a step by step order to create my project and deploy it to GitHub Pages as showed below:
+Feel free to use your own colors and images.
 
-1. I created a new repository on your GitHub account and clone it to my computer.
+## Grading Requirements
 
-2. I downloaded the starter code with a HTML and CSS file in it and opened the HTML file on my browser.
+This challenge is graded based on the following criteria: 
 
-3. At the end I created a README file where I explained the steps I followed to complete my project.
+### Technical Acceptance Criteria: 40%
 
+* Satisfies all of the above acceptance criteria.
 
-### Coding stage
+### Deployment: 32%
 
-I started by making the necessary changes to my html file first and then added the style using CSS. I followed the change and check method as I was styling my components. I created four components within my portfolio project: Home, About Me, Portfolio and Contact page. The sceenshots below ilustrate how the pages look like. 
+* Application deployed at live URL.
 
-![Alt text](<Screenshot 2023-11-28 at 19.31.26.png>)
+* Application loads with no errors.
 
-![Alt text](<Screenshot 2023-11-29 at 12.26.19.png>)
+* Application GitHub URL submitted.
 
-![Alt text](<Screenshot 2023-11-29 at 12.17.37.png>)
+* GitHub repository contains application code.
 
-![Alt text](<Screenshot 2023-11-29 at 12.18.21.png>)
+### Application Quality: 15%
 
- And added a footer with an up arrow btn which brings us to the home page as shown below in the img.
+* Application resembles the mock-up functionality provided in the challenge instructions.
 
- ![Alt text](<Screenshot 2023-11-29 at 14.05.54.png>) 
+### Repository Quality: 13%
 
+* Repository has a unique name.
 
+* Repository follows best practices for file structure and naming conventions.
 
-### Future improvements
+* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
-1. I need to fix the sandwich menu button so it shows the pages when I clich on it and it closes them back again when clicking on it for small screens.
+* Repository contains multiple descriptive commit messages.
 
-![Alt text](<Screenshot 2023-11-29 at 14.11.53.png>)
+* Repository contains quality readme with description, screenshot, link to deployed application.
 
+## Review
 
-### Deployment
+You are required to submit BOTH of the following for review:
 
-1. When I was ready to deploy, I used the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
+* The URL of the deployed application.
 
-2. Next, I navigated to my GitHub repository in the browser and then selected the Settings tab on the right side of the page.
+* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
 
-3. On the Settings page, I scrolled down to the GitHub Pages section. Then, in the section labeled Source, selected the `main` branch as my source.
-
-4. Navigated to <my-github-username.github.io/my-repository-name> and I found that my new webpage has gone live! For example, if my GitHub username is "lernantino" and the project is "css-demo-site", then my URL would be <lernantino.github.io/css-demo-site>.
-
-For more information about github pages also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
-
+---
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
